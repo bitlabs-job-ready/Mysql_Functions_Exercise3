@@ -1,0 +1,46 @@
+
+Consider the following table called “Order_details” to write SQL queries for below exercises.  
+
+Before working on exercises create below table and insert records into Order_details table. 
+
+
+Cust_Id		Cust_Name 	Order_id 	Order_date 	order_amt 
+
+c101 		Naveen 		O301 		10-Mar-22 	4500.781 
+
+c102 		Pavan 		O302 		12-Mar-22 	2300.343 
+
+c101 		Sarath 		O303 		24-Mar-22 	4300.904 
+
+c104 		Pavani 		O304 		04-Apr-22 	9000.454 
+
+c103 		Bhavani 	O305 		09-Apr-22 	1200.333 
+
+c104 		Rajesh 		O306 		19-May-22 	3450.122 
+
+c101 		Kumari 		O307 		05-Jun-22 	5430.762 
+
+c105 		Mahesh 		O308 		15-Jun-22 	1595.441 
+
+c106 		Ram 		O309 		10-Jul-22 	3400.761 
+
+ 
+
+Exercise 1: 
+
+Write a SQL query to display customer id, customer name and order amount in upper bound value, as well as lower bound value from the order_details table. 
+
+Exercise 2: 
+
+Write a SQL query to display customer id, customer name and order amount (round figure value with two decimal places) from Order_details table.  
+
+Exercise 4: 
+
+Write a SQL queries for below mathematical operations.  
+
+2 to the power of 5 
+
+5 to the power of 3 
+
+7 to the power of 3  
+
